@@ -1,2 +1,5 @@
 paho-mqtt==2.1.0
 python-dotenv==1.0.1
+opcua==0.98.13
+crypto==1.4.1
+cryptography==42.0.7
